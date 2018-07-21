@@ -5,6 +5,10 @@ body {
     font-size: 16pt;
 }
 
+input {
+    font-size: 30px;
+}
+
 h1{
     font-size: 46pt;
 }
@@ -12,4 +16,15 @@ h1{
 .button-ivan{
     font-size: 16pt;
     padding: 10px;
+}
+
+button{
+    width: 60px;
+    height: 60px;
+
+}
+
+button.number{
+    background: aliceblue;
+    font-size: 30px;
 }
